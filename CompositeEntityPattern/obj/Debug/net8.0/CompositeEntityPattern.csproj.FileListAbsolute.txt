@@ -1,0 +1,14 @@
+D:\Learning Everyday\csharp\CompositeEntityPattern\CompositeEntityPattern\bin\Debug\net8.0\CompositeEntityPattern.exe
+D:\Learning Everyday\csharp\CompositeEntityPattern\CompositeEntityPattern\bin\Debug\net8.0\CompositeEntityPattern.deps.json
+D:\Learning Everyday\csharp\CompositeEntityPattern\CompositeEntityPattern\bin\Debug\net8.0\CompositeEntityPattern.runtimeconfig.json
+D:\Learning Everyday\csharp\CompositeEntityPattern\CompositeEntityPattern\bin\Debug\net8.0\CompositeEntityPattern.dll
+D:\Learning Everyday\csharp\CompositeEntityPattern\CompositeEntityPattern\bin\Debug\net8.0\CompositeEntityPattern.pdb
+D:\Learning Everyday\csharp\CompositeEntityPattern\CompositeEntityPattern\obj\Debug\net8.0\CompositeEntityPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning Everyday\csharp\CompositeEntityPattern\CompositeEntityPattern\obj\Debug\net8.0\CompositeEntityPattern.AssemblyInfoInputs.cache
+D:\Learning Everyday\csharp\CompositeEntityPattern\CompositeEntityPattern\obj\Debug\net8.0\CompositeEntityPattern.AssemblyInfo.cs
+D:\Learning Everyday\csharp\CompositeEntityPattern\CompositeEntityPattern\obj\Debug\net8.0\CompositeEntityPattern.csproj.CoreCompileInputs.cache
+D:\Learning Everyday\csharp\CompositeEntityPattern\CompositeEntityPattern\obj\Debug\net8.0\CompositeEntityPattern.dll
+D:\Learning Everyday\csharp\CompositeEntityPattern\CompositeEntityPattern\obj\Debug\net8.0\refint\CompositeEntityPattern.dll
+D:\Learning Everyday\csharp\CompositeEntityPattern\CompositeEntityPattern\obj\Debug\net8.0\CompositeEntityPattern.pdb
+D:\Learning Everyday\csharp\CompositeEntityPattern\CompositeEntityPattern\obj\Debug\net8.0\CompositeEntityPattern.genruntimeconfig.cache
+D:\Learning Everyday\csharp\CompositeEntityPattern\CompositeEntityPattern\obj\Debug\net8.0\ref\CompositeEntityPattern.dll

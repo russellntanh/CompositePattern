@@ -1,0 +1,14 @@
+D:\Learning Everyday\csharp\CompositeEntityPattern\FileManagement\bin\Debug\net8.0\FileManagement.exe
+D:\Learning Everyday\csharp\CompositeEntityPattern\FileManagement\bin\Debug\net8.0\FileManagement.deps.json
+D:\Learning Everyday\csharp\CompositeEntityPattern\FileManagement\bin\Debug\net8.0\FileManagement.runtimeconfig.json
+D:\Learning Everyday\csharp\CompositeEntityPattern\FileManagement\bin\Debug\net8.0\FileManagement.dll
+D:\Learning Everyday\csharp\CompositeEntityPattern\FileManagement\bin\Debug\net8.0\FileManagement.pdb
+D:\Learning Everyday\csharp\CompositeEntityPattern\FileManagement\obj\Debug\net8.0\FileManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning Everyday\csharp\CompositeEntityPattern\FileManagement\obj\Debug\net8.0\FileManagement.AssemblyInfoInputs.cache
+D:\Learning Everyday\csharp\CompositeEntityPattern\FileManagement\obj\Debug\net8.0\FileManagement.AssemblyInfo.cs
+D:\Learning Everyday\csharp\CompositeEntityPattern\FileManagement\obj\Debug\net8.0\FileManagement.csproj.CoreCompileInputs.cache
+D:\Learning Everyday\csharp\CompositeEntityPattern\FileManagement\obj\Debug\net8.0\FileManagement.dll
+D:\Learning Everyday\csharp\CompositeEntityPattern\FileManagement\obj\Debug\net8.0\refint\FileManagement.dll
+D:\Learning Everyday\csharp\CompositeEntityPattern\FileManagement\obj\Debug\net8.0\FileManagement.pdb
+D:\Learning Everyday\csharp\CompositeEntityPattern\FileManagement\obj\Debug\net8.0\FileManagement.genruntimeconfig.cache
+D:\Learning Everyday\csharp\CompositeEntityPattern\FileManagement\obj\Debug\net8.0\ref\FileManagement.dll
